@@ -1,0 +1,6 @@
+{
+  "name": "NO ESCAPE - 3D Trap Horror Survival",
+  "description": "An ultra-realistic 3D third-person survival horror and deceptive trap-platformer. Brave 50 levels across 5 chapters filled with treacherous traps, deceptive doors, shifting rooms, and eerie stalkers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
